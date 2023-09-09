@@ -1,0 +1,3 @@
+12345#Fulano da Silva#F#Erechim#1980#A+
+67890#Fulana de Souza#M#Passo Fundo#1960#O-
+99887#Ciclano Araujo#M#Carazinho#1993#AB+
